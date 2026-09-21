@@ -44,7 +44,7 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongodb,mysql,postgres,flask,django,vite,git,github,vscode&perline=9" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongodb,mysql,postgres,django,git,github,vscode&perline=9" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -133,9 +133,6 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 **Learning & Performance Analytics Platform**
 
 A MERN-stack learning platform featuring study materials, mock tests, quizzes, performance analytics and gamification.
-
-
-
 </td>
 
 <td width="50%" valign="top">
@@ -193,9 +190,7 @@ A full-stack e-commerce project focused on product browsing, user interaction an
 <!--                    GITHUB HIGHLIGHTS                       -->
 <!-- ========================================================= -->
 
-## ⭐ GitHub Highlights
-
-<p align="center">
+<!-- <p align="center">
 
   <img
     src="https://img.shields.io/github/followers/riyasavalia09?style=for-the-badge&logo=github&label=Followers"
@@ -207,7 +202,7 @@ A full-stack e-commerce project focused on product browsing, user interaction an
     alt="Commit Activity"
   />
 
-</p>
+</p> -->
 
 ---
 
