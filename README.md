@@ -67,19 +67,13 @@ I'm a **Computer Science Engineering student** passionate about building modern,
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyasavalia09&theme=github_dark"
     alt="GitHub Stats"
     width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyasavalia09&theme=github_dark"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
+  /> -->
+<!-- </p> -->
 
 ---
 
