@@ -44,7 +44,7 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongodb,mysql,postgres,github,vscode&perline=9" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongodb,mysql,postgres,github,vscode&perline=5" alt="Tech Stack"/>
 </p>
 
 <p align="center">
